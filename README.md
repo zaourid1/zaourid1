@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zineb!</h1>
-<h3 align="center">A CS student from Canada and Morocco!</h3>
+<h3 align="center">A CS and biochem student from Canada and Morocco!</h3>
 
 - 🔭 I’m currently working on **expanding my knowlege**
 
