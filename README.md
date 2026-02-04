@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zineb!</h1>
-<h3 align="center">A CS and biochem student from Canada and Morocco!</h3>
+<h3 align="center">A CS student from Canada and Morocco!</h3>
 
 - 🔭 I’m currently working on **expanding my knowlege**
 
-- 🌱 I’m currently learning **Data Structures, React,...**
+- 🌱 I’m currently learning **System Design, Algorithm Design/Analysis,...**
 
 - 📫 How to reach me **zineb.aourid1@gmail.com**
 
-- 📄 Know about my experiences [zinebaourid.com](zinebaourid.com)
+- 📄 Know about my experiences [linkden/zineb-aourid](https://www.linkedin.com/in/zineb-aourid-6238021b6/)
 
-- ⚡ Fun fact **I can speak three languages :)**
+- ⚡ Fun fact **I can speak three languages :) and currently doing research on edge computing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
